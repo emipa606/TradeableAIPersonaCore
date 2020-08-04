@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Tradeable AI Persona Core (Continued)</name>
   <packageId>Mlie.TradeableAIPersonaCore</packageId>
@@ -7,9 +7,10 @@
   <supportedVersions>
     <li>1.0</li>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
-  <modDependencies/>
-  <loadAfter/>
+  <modDependencies />
+  <loadAfter />
   <description>
     Update of Emmotes mod for RimWorld 1.1
     https://steamcommunity.com/sharedfiles/filedetails/?id=1270748642

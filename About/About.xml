@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Tradeable AI Persona Core (Continued)</name>
   <packageId>Mlie.TradeableAIPersonaCore</packageId>
@@ -8,20 +8,37 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>
-    Update of Emmotes mod for RimWorld 1.1
-    https://steamcommunity.com/sharedfiles/filedetails/?id=1270748642
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of Emmotes mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1270748642
 
-    Support-chat:
-    https://discord.gg/SuhwVpM
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-    Non-steam version:
-    https://github.com/emipa606/TradeableAIPersonaCore
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/TradeableAIPeronaCore][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
+	
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-    --- Original Description ---
-    AI Persona Cores are just far too rare in B18. This mod simply allows any trader capable of trading in Exotic goods to sell them again.
-  </description>
+Maked the AI Persona Core tradeable, that is all.
+
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

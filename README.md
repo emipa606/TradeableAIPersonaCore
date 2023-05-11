@@ -28,3 +28,4 @@ Maked the AI Persona Core tradeable, that is all.
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2017500145]Last updated 2023-05-11

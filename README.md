@@ -26,4 +26,4 @@ Maked the AI Persona Core tradeable, that is all.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/TradeableAIPersonaCore?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2017500145) | tags: rare item
+[![Image](https://img.shields.io/github/v/release/emipa606/TradeableAIPersonaCore?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2017500145) | rare item
